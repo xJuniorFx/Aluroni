@@ -67,7 +67,7 @@
     {
       "title": "Picanha picada com legumes e massa",
       "description": "400g de picanha picada, com legumes grelhados e massa escolhida pelo cliente.",
-      "photo": "/assets/pratos/picanha_picada.png",
+      "photo": "assets/pratos/picanha_picada.png",
       "size": 850,
       "serving": 3,
       "price": 123.0,
@@ -80,7 +80,7 @@
     {
       "title": "Lasagna vegana (carne de soja)",
       "description": "Lasagna 100% vegana feita com carne de soja e massa especial.",
-      "photo": "/assets/pratos/lasagna_vegana.png",
+      "photo": "assets/pratos/lasagna_vegana.png",
       "size": 350,
       "serving": 1,
       "price": 45.0,
@@ -93,7 +93,7 @@
     {
       "title": "Salada especial",
       "description": "Salada com abacate, manga, alface, grão de bico e muito mais.",
-      "photo": "/assets/pratos/salada_especial.png",
+      "photo": "assets/pratos/salada_especial.png",
       "size": 350,
       "serving": 1,
       "price": 37.0,
@@ -106,7 +106,7 @@
     {
       "title": "Almôndegas",
       "description": "Porção de almôndegas com sour cream, cebola e tempêros. Acompanha arroz ou massa.",
-      "photo": "/assets/pratos/almondegas.png",
+      "photo": "assets/pratos/almondegas.png",
       "size": 740,
       "serving": 3,
       "price": 120.0,
