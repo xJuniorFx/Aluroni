@@ -2,7 +2,7 @@
     {
       "title": "Macarrão mediterrâneo",
       "description": "Macarrão spaghetti com frutos-do-mar e especíarias, especialidade da cozinha. Atenção: Contém camarão e outros frutos-do-mar!",
-      "photo": "/assets/pratos/macarrao_mediterraneo.png",
+      "photo": "assets/pratos/macarrao_mediterraneo.png",
       "size": 400,
       "serving": 2,
       "price": 73.0,
@@ -15,7 +15,7 @@
     {
       "title": "Macarrão da casa",
       "description": "Macarrão com frutos-do-mar e especíarias, especialidade da cozinha. Atenção: Contém camarão e outros frutos-do-mar!",
-      "photo": "/assets/pratos/macarrao_da_casa.png",
+      "photo": "assets/pratos/macarrao_da_casa.png",
       "size": 400,
       "serving": 2,
       "price": 54.0,
@@ -28,7 +28,7 @@
     {
       "title": "Macarrão com chilli",
       "description": "Macarrão fetuccine com molho de chilli e especiárias.",
-      "photo": "/assets/pratos/macarrao_com_chilli.png",
+      "photo": "assets/pratos/macarrao_com_chilli.png",
       "size": 350,
       "serving": 1,
       "price": 58.0,
@@ -41,7 +41,7 @@
     {
       "title": "Salada da casa com salmão grelhado",
       "description": "Salada da casa (alface, rúcula, cenoura) com salmão.",
-      "photo": "/assets/pratos/salada_da_casa.png",
+      "photo": "assets/pratos/salada_da_casa.png",
       "size": 450,
       "serving": 1,
       "price": 42.0,
@@ -54,7 +54,7 @@
     {
       "title": "Bife com batatas",
       "description": "Bife de boi (150g) na chapa, com batatas fritas. Acompanha arroz e molhos.",
-      "photo": "/assets/pratos/bife_com_batatas.png",
+      "photo": "assets/pratos/bife_com_batatas.png",
       "size": 550,
       "serving": 2,
       "price": 86.0,
