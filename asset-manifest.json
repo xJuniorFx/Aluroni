@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aluroni/static/css/main.62f1f71a.css",
+    "main.css": "/Aluroni/static/css/main.12c47da1.css",
     "main.js": "/Aluroni/static/js/main.8d2313a3.js",
     "static/media/header.png": "/Aluroni/static/media/header.b657dd083e14f631a54c.png",
     "static/media/logo.svg": "/Aluroni/static/media/logo.e65ad0dbf5ba98413ebe89bfcaca0409.svg",
     "index.html": "/Aluroni/index.html",
-    "main.62f1f71a.css.map": "/Aluroni/static/css/main.62f1f71a.css.map",
+    "main.12c47da1.css.map": "/Aluroni/static/css/main.12c47da1.css.map",
     "main.8d2313a3.js.map": "/Aluroni/static/js/main.8d2313a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.62f1f71a.css",
+    "static/css/main.12c47da1.css",
     "static/js/main.8d2313a3.js"
   ]
 }
