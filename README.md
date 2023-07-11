@@ -1,4 +1,4 @@
-<p align="center"> <img src="./public/imagens/alura.png" alt="React: lidando com arquivos estáticos"> </p>
+<p align="center"> <img src="./public/assets/alura.png" alt="React: lidando com arquivos estáticos"> </p>
 
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
